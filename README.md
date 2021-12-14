@@ -11,6 +11,7 @@ As a Novel approach to this research, Football players has been selected based o
 First approach is predicting the player position to select that player to play for a particular position. This is done in two novel ways
 
 One is traditionally predicting the player positions out of 4 major position like forward, midfielder, defender and goalkeeper using the novel ensemble machine learning models and select that player for that position.
+
 Second is novel approach of predicting the player positions out of 27 different positions including major and minor positions using the novel ensemble machine learning models like svc lrc, rfc and dtc and select that player for that position.
 
 Second approach is selecting the most similar player for replacing a particular player using novel similarity measures like cosine similarity and Euclidean distance and compared these similarity measures techniques.

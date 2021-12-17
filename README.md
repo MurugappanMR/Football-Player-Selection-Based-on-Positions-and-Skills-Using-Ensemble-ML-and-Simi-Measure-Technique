@@ -15,3 +15,5 @@ One is traditionally predicting the player positions out of 4 major position lik
 Second is novel approach of predicting the player positions out of 27 different positions including major and minor positions using the novel ensemble machine learning models like svc lrc, rfc and dtc and select that player for that position.
 
 Second approach is selecting the most similar player for replacing a particular player using novel similarity measures like cosine similarity and Euclidean distance and compared these similarity measures techniques.
+
+Dataset Link in Kaggle: https://www.kaggle.com/umeshkumar017/fifa-21-player-and-formation-analysis
